@@ -1,0 +1,14 @@
+{
+  "name": "Linha do Tempo da Tropicália",
+  "short_name": "Tropicália",
+  "description": "Uma linha do tempo interativa sobre a Tropicália",
+  "start_url": "https://linhatropicalia.netlify.app/",
+  "display": "standalone",
+  "background_color": "#F2F1E8",
+  "theme_color": "#D24F35",
+  "icons": [
+    {
+   
+    }
+  ]
+}
