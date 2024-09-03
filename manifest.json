@@ -8,9 +8,6 @@
   "theme_color": "#D24F35",
   "icons": [
     {
-      {
-  "icons": [
-    {
       "src": "windows11/SmallTile.scale-100.png",
       "sizes": "71x71"
     },
