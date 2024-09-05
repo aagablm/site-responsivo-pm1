@@ -139,3 +139,19 @@ section {
   margin: 10px;
   margin-bottom: 20px;
 }
+
+::-webkit-scrollbar {
+  width: 10px; 
+}
+
+::-webkit-scrollbar-track {
+  background: #F2F1E8; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #DDA640; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D24F35; 
+}
